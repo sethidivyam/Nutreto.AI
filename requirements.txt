@@ -3,3 +3,4 @@ gTTS==2.5.4
 Pillow==11.3.0
 python-dotenv==1.1.1
 streamlit==1.50.0
+
